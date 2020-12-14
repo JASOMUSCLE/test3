@@ -5,7 +5,6 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(displayWidth-100, (displayWidth-100)*9/16);
   noStroke();
   noCursor();
 }
